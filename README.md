@@ -1,0 +1,2 @@
+# CV_HandPosture_using_HOG_and_SVM
+使用HOG特征检测和SVM分类器，识别手势
